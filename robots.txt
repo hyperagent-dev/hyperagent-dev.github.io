@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hyperagent-dev.github.io/sitemap.xml
